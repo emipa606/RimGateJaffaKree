@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimGate - Jaffa, Kree! 6.0.0</name>
+  <author>Helixien - Xen</author>
+  <url>https://ludeon.com/forums/index.php?topic=29207.0</url>
+  <supportedVersions>
+    <li>1.1</li>
+  </supportedVersions>
+  <packageId>xen.races.jaffa</packageId>
+  <description>When I was young, one of my favorite TV Show was Stargate! Now, after so many years I still feel the same nostalgia and I am not the only one. Back in A8, Carnov made a mod which brought the Jaffa with weapons and armor into Rimworld. And now with A16, I once again bring them back! They are not lore friendly and I wont even make an excuss for why they may be. If you are a Stargate fan like myself, you will love the mod! Enjoy! 
+
+Updated for the Alien Race Framework by Xen!
+	
+Features:
+- Custom head texture! Fully working with all vanilla and modded hairstyles! 
+- Custom Jaffa Amor and helmets! 
+- Three new, hidden Factions! Each with a unique helmet! (Anubis, Ra and Apophis) 
+- Custom names! Each Jaffa has a chance to spawn with a custom name! 
+- New Weapons! The Ma'Tok Staff and the Zat'nik'tel! Each with custom sounds! 
+- Longer Lifespan than normal humans!
+
+Credits: 
+Carnov (Textures) 
+CPT.OHU (Humanoid Alien Races) 
+Erdelf (Humanoid Alien Races modifications) 
+</description>
+</ModMetaData>
