@@ -21,7 +21,7 @@ Features:
 - Custom Jaffa Amor and helmets! 
 - Three new, hidden Factions! Each with a unique helmet! (Anubis, Ra and Apophis) 
 - Custom names! Each Jaffa has a chance to spawn with a custom name! 
-- New Weapons! The Ma'Tok Staff and the Zat'nik'tel! Each with custom sounds! 
+- New Weapons! The Ma&apos;Tok Staff and the Zat&apos;nik&apos;tel! Each with custom sounds! 
 - Longer Lifespan than normal humans!
 
 Credits: 
