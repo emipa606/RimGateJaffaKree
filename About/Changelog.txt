@@ -1,5 +1,8 @@
 # Changelog for RimGateJaffaKree
 
+1.0.3.0 - Republish since the HAR framework changed how hair and beards are coded
+
+
 1.0.2.0 - Mod updated for 1.3 and passed autotests
 
 
