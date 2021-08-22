@@ -1,5 +1,8 @@
 # Changelog for RimGateJaffaKree
 
+1.0.5.0 - Wounds and bionics should now be at the correct place
+
+
 1.0.4.0 - Added confiurable at game-start option
 
 
