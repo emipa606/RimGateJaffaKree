@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>RimGate - Jaffa, Kree! (Continued)</name>
   <packageId>Mlie.RimGateJaffaKree</packageId>
@@ -21,22 +21,26 @@
   <loadAfter>
     <li>erdelf.HumanoidAlienRaces</li>
   </loadAfter>
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Helixien - Xens mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=2018387536
 
 - Fixed raids spawning without weapons
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
         [td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
         [td][url=https://github.com/emipa606/RimGateJaffaKree][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
     [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/6KqTKks.png[/img][/td]
+    [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 When I was young, one of my favorite TV Show was Stargate! Now, after so many years I still feel the same nostalgia and I am not the only one. Back in A8, Carnov made a mod which brought the Jaffa with weapons and armor into Rimworld. And now with A16, I once again bring them back! They are not lore friendly and I wont even make an excuss for why they may be. If you are a Stargate fan like myself, you will love the mod! Enjoy! 
 
 Updated for the Alien Race Framework by Xen!
@@ -54,7 +58,7 @@ Carnov (Textures)
 CPT.OHU (Humanoid Alien Races) 
 Erdelf (Humanoid Alien Races modifications)
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
@@ -63,6 +67,5 @@ Erdelf (Humanoid Alien Races modifications)
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
 [/list]
-
 </description>
 </ModMetaData>
