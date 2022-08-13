@@ -1,27 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-  <ThingDef Name="BaseGunJaffa" Abstract="True" ParentName="BaseWeapon">
+  <ThingDef Name="BaseGunJaffa" Abstract="True" ParentName="BaseGunWithQuality">
     <techLevel>Ultra</techLevel>
-    <smeltable>true</smeltable>
-    <thingCategories>
-      <li>WeaponsRanged</li>
-    </thingCategories>
     <weaponTags>
       <li>JaffaWeapons</li>
     </weaponTags>
-    <inspectorTabs>
-      <li>ITab_Art</li>
-    </inspectorTabs>
-    <comps>
-      <li>
-        <compClass>CompQuality</compClass>
-      </li>
-      <li Class="CompProperties_Art">
-        <nameMaker>NamerArtWeaponGun</nameMaker>
-        <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
-        <minQualityForArtistic>Excellent</minQualityForArtistic>
-      </li>
-    </comps>
   </ThingDef>
   <!-- ============================ Ma'Tok Staff ========================== -->
   <ThingDef ParentName="BaseBullet">
