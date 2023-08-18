@@ -41,4 +41,4 @@ Erdelf (Humanoid Alien Races modifications)
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2395671127]Last updated 2023-04-10
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2395671127]Last updated 2023-08-18

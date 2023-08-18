@@ -1,5 +1,8 @@
 # Changelog for RimGateJaffaKree
 
+1.4.4 - Added some body-tags to support special apparel like blindfolds
+
+
 1.4.3 - No more invisible pawns
 
 
